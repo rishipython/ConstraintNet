@@ -39,7 +39,7 @@ The module is implemented in a differentiable manner, so it can be integrated se
 
    ```bash
    git clone https://github.com/rishipython/ConstraintNet.git
-   cd feasibility-constraints/ConstraintNet
+   cd ConstraintNet
    ```
 
 2. **Create and Activate a Conda Environment (Recommended):**
