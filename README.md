@@ -19,7 +19,6 @@ The module is implemented in a differentiable manner, so it can be integrated se
   - [Adversarial Tests](#adversarial-tests)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -147,7 +146,3 @@ pytest -v priority_approach/test_adversarial.py
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests for improvements, additional features, or bug fixes.
-
-## License
-
-[MIT License](LICENSE)
